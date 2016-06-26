@@ -77,5 +77,11 @@ namespace MvcApplication4.Controllers
 
             return View();
         }
+
+        public ActionResult Test2()
+        {
+
+            return View();
+        }
     }
 }
