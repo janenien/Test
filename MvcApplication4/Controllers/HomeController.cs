@@ -71,5 +71,11 @@ namespace MvcApplication4.Controllers
         {
             return Json(new { id = 111, name = "Jane", createdOn = DateTime.Now, GUID = new Guid() },JsonRequestBehavior.AllowGet);
         }
+
+        public ActionResult Test()
+        {
+
+            return View();
+        }
     }
 }
