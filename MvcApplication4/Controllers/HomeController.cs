@@ -74,7 +74,7 @@ namespace MvcApplication4.Controllers
 
         public ActionResult Test()
         {
-
+            ViewBag.Test = "Test Page";
             return View();
         }
 
