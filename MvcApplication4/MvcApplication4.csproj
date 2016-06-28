@@ -308,6 +308,7 @@
     <Content Include="Views\Home\Test.cshtml" />
     <Content Include="Views\Home\Test2.cshtml" />
     <Content Include="Views\Home\Test4.cshtml" />
+    <Content Include="Views\Home\Test5.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
